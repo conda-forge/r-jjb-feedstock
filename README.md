@@ -1,11 +1,11 @@
-About r-jjb
-===========
+About r-jjb-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-jjb-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/coatless/jjb
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-jjb-feedstock/blob/main/LICENSE.txt)
 
 Summary: Set of common functions used for manipulating colors, detecting and interacting with 'RStudio', modeling, formatting, determining users' operating system, feature scaling, and more!
 
